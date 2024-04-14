@@ -26,10 +26,10 @@ I'm an Telecommunications Electronics Engineering student. It means that when I'
 ---
 </br>
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexga93&show_icons=true&theme=nord)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=nord&border_radius=4.5)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alexga93&show_icons=true&theme=nord" />
+  <img src="https://streak-stats.demolab.com?user=ForrestKnight&theme=nord&border_radius=4.5" />
+</p>
 
 ---
 
