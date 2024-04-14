@@ -41,6 +41,7 @@ I'm an Telecommunications Electronics Engineering student. It means that when I'
 <img alt="git_logo" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img alt="arch_logo" width="60px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 
+#
 ---
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexga93&show_icons=true&theme=nord)
 
