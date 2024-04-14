@@ -41,11 +41,8 @@ I'm an Telecommunications Electronics Engineering student. It means that when I'
 <img align="left" alt="git_logo" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="arch_logo" width="60px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
 </br>
-
-
 </br>
 
----
 
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexga93&show_icons=true&theme=nord)
 
@@ -59,5 +56,5 @@ I'm an Telecommunications Electronics Engineering student. It means that when I'
 I really love to learn new technologies and put them on a real project. I started with the web basics from [FreeCodeCamp](https://www.freecodecamp.org/): <strong><i>HTML</i></strong>, <strong><i>CSS</i></strong>, <strong><i>Javascript</i></strong> and <strong><i>Algorythms</i></strong> but once I finished those exercises I started a Full Stack bootcamp where i could review the previous points and start learning proper web development with the M.E.R.N stack (<strong><i>MongoDB</i></strong>, <strong><i>Express.js</i></strong>, <strong><i>React.js</i></strong> and <strong><i>Node.js</i></strong>). 
 But it only made me want to learn more and more! Today i work as a developer with languages and frameworks like <strong><i>Typescript</i></strong> and <strong><i>Angular</i></strong> using CSS extensions like <strong><i>Sass</i></strong> and style libraries like <strong><i>Bootstrap</i></strong>, <strong><i>Tailwind</i></strong>, etc. One proper tool that I love to implement in my projects is <strong><i>Docker</i></strong> and Docker Compose. It allows me to make my projects to make them scaleless and modular. 
 	
-</ details>
+
 
