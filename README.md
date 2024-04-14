@@ -26,7 +26,7 @@ I'm an Telecommunications Electronics Engineering student. It means that when I'
 ---
 </br>
 
-<p align="center">
+<p align="center" style="margin: 0 5px 0 5px">
   <img src="https://github-readme-stats.vercel.app/api?username=alexga93&show_icons=true&theme=nord" />
   <img src="https://streak-stats.demolab.com?user=ForrestKnight&theme=nord&border_radius=4.5" />
 </p>
