@@ -19,7 +19,7 @@ I'm an Telecommunications Electronics Engineering student. It means that when I'
 </svg>
 </a>
 </p>
-
+</br>
 ---
 
 ## Programming Languages
