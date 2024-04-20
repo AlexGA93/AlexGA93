@@ -14,7 +14,7 @@ I'm an Telecommunications Electronics Engineering student. It means that when I'
 </p>
 
 <div align="center">
-<a title="Come to my Linkedin's page!" href="https://github.com/AlexGA93"><img width=100 src="https://skillicons.dev/icons?i=github" /></a>
+<a title="Come to my Repositorie's page!" href="https://github.com/AlexGA93?tab=repositories"><img width=100 src="https://skillicons.dev/icons?i=github" /></a>
 <a title="Come to my Linkedin's page!" href="https://www.linkedin.com/in/alejandro-gimeno-ataz-3741a013b/"><img width=100 src="https://skillicons.dev/icons?i=linkedin" /></a>
 </div>
 
