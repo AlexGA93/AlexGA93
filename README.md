@@ -46,7 +46,7 @@ I'm an Telecommunications Electronics Engineering student. It means that when I'
 		</tr>
 		<tr>
 			<th align=center><p>Tools</p></th>
-			<th><img src="https://skillicons.dev/icons?i=vscode,postman"/></th>
+			<th><img src="https://skillicons.dev/icons?i=vscode,postman,obsidian"/></th>
 		</tr>
 	</table>
 </div>
@@ -78,10 +78,16 @@ But it only made me want to learn more and more! Today i work as a developer wit
 <br />
 <details>
 	<summary>
-		<h3 align="center">⚡ Currently Learning ⚡ </h3>
-		<p>
-		
-		</p>
+		<h3 align=""><img src="https://skillicons.dev/icons?i=docker"/> Currently Learning <img src="https://skillicons.dev/icons?i=git"/></h3>
 	</summary>
+	<div>
+			<ul >
+				<li><strong>Home Cloud: </strong>Nestjs, Angular (or Reactjs or Nextjs), Docker</li>
+				<li><strong>Personal Portfolio v.2: </strong>Angular, Sass, Typescript</li>
+				<li><strong>New Github Main Page: </strong>Obsidian, HTML5, CSS, Marktdown</li>
+				<li><strong>Password Manager: </strong> Nestjs, Angular, Electronjs, Tauri(or Electron), AWS, Docker</li>
+				<li><strong>End-of-Degree Project: </strong>Node.js, Typescript, Docker, Express.js, MySQL, Angular</li>
+			</ul>
+		</div>
 </details>
 
