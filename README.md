@@ -1,13 +1,21 @@
 # Alejandro Gimeno Ataz
 ---
-**`Full Stack Developer and Telecommunications Electronics Engineer`**
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alex!+👋;+Welcome+To+My+Profile!" />
+</h1>
 
+<h3 align="center">Full Stack Developer and Telecommunications Electronics Engineer</h3>
+
+<p>
 Hi I'm Alex! 
 And if you are reading this you are in my personal Github page where i store every project and idea that makes me learn and enjoy my software development career. I started to programming at 2018 and since that moment I've keep practicing until today.
 
 I'm an Telecommunications Electronics Engineering student. It means that when I'm not programming surely I will be studying or reading. I need to keep my schedule with some task to complete!.
+</p>
 
-<p align="left"> 
+
+
+<p align="center"> 
 <a title="Come to my Linkedin's page!" href="https://www.linkedin.com/in/alejandro-gimeno-ataz-3741a013b/">
 <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" width="100" height="100" viewBox="0 0 48 48">
 <path fill="#0288D1" d="M42,37c0,2.762-2.238,5-5,5H11c-2.761,0-5-2.238-5-5V11c0-2.762,2.239-5,5-5h26c2.762,0,5,2.238,5,5V37z"></path><path fill="#FFF" d="M12 19H17V36H12zM14.485 17h-.028C12.965 17 12 15.888 12 14.499 12 13.08 12.995 12 14.514 12c1.521 0 2.458 1.08 2.486 2.499C17 15.887 16.035 17 14.485 17zM36 36h-5v-9.099c0-2.198-1.225-3.698-3.192-3.698-1.501 0-2.313 1.012-2.707 1.99C24.957 25.543 25 26.511 25 27v9h-5V19h5v2.616C25.721 20.5 26.85 19 29.738 19c3.578 0 6.261 2.25 6.261 7.274L36 36 36 36z"></path>
@@ -20,45 +28,80 @@ I'm an Telecommunications Electronics Engineering student. It means that when I'
 </a>
 </p>
 </br>
-
-
-
----
+<hr />
 </br>
+<div align=center>
+	<img 
+		width=390 
+		height=200 
+		src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGA93&theme=react&hide_border=true" alt="streak stats"/>
+	
+	<img
+		width=390 
+		height=200
+		src="https://github-readme-stats.vercel.app/api?username=AlexGA93&theme=react&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />
+	<br/>
+	<img 
+		width=325 
+		align="center" 
+		src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGA93&theme=react&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
+	
+</div>
+<br />
+<hr />
+<br />
+<h3 align=center> My Coding Journey</h3>
 
-<p align="center" style="margin: 0 5px 0 5px">
-  <img src="https://github-readme-stats.vercel.app/api?username=alexga93&show_icons=true&theme=nord" />
-  <img src="https://streak-stats.demolab.com?user=ForrestKnight&theme=nord&border_radius=4.5" />
+<p>
+ 
+I really love to learn new technologies and put them on a real project. I started with the web basics from [FreeCodeCamp](https://www.freecodecamp.org/): <strong><i>HTML</i></strong>, <strong><i>CSS</i></strong>, <strong><i>Javascript</i></strong> and <strong><i>Algorythms</i></strong> but once I finished those exercises I started a Full Stack bootcamp where i could review the previous points and start learning proper web development with the M.E.R.N stack (<strong><i>MongoDB</i></strong>, <strong><i>Express.js</i></strong>, <strong><i>React.js</i></strong> and <strong><i>Node.js</i></strong>). 
+But it only made me want to learn more and more! Today i work as a developer with languages and frameworks like <strong><i>Typescript</i></strong> and <strong><i>Angular</i></strong> using CSS extensions like <strong><i>Sass</i></strong> and style libraries like <strong><i>Bootstrap</i></strong>, <strong><i>Tailwind</i></strong>, etc. One proper tool that I love to implement in my projects is <strong><i>Docker</i></strong> and Docker Compose. It allows me to make my projects to make them scaleless and modular. 
 </p>
 
----
 
-<details><summary><h3> My Coding Journey</h3></summary>
+<br />
+<hr />
+<br />
+<h2 align='center'>Programming Languages</h2>
+<div>
+	<table>
+		<tr>
+			<th width=300>Section</th>
+			<th>Technology</th>
+		</tr>
+		<tr>
+			<th><p>Front End</p></th>
+			<th><img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,angular,react,redux,bootstrap,materialui,tailwind,sass"/></th>
+		</tr>
+		<tr>
+			<th><p>Back End</p></th>
+			<th><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nest"/></th>
+		</tr>
+		<tr>
+			<th><p>Management</p></th>
+			<th><img src="https://skillicons.dev/icons?i=npm,yarn,docker,git"/></th>
+		</tr>
+		<tr>
+			<th><p>O.S</p></th>
+			<th><img src="https://skillicons.dev/icons?i=windows,linux,arch"/></th>
+		</tr>
+		<tr>
+			<th><p>Tools</p></th>
+			<th><img src="https://skillicons.dev/icons?i=vscode,postman"/></th>
+		</tr>
+	</table>
+</div>
+<br />
+<hr />
+<br />
+<details>
+	<summary>
+		<h3 align="center">
+			Currently Learning
+		</h3>
+	</summary>
  
 I really love to learn new technologies and put them on a real project. I started with the web basics from [FreeCodeCamp](https://www.freecodecamp.org/): <strong><i>HTML</i></strong>, <strong><i>CSS</i></strong>, <strong><i>Javascript</i></strong> and <strong><i>Algorythms</i></strong> but once I finished those exercises I started a Full Stack bootcamp where i could review the previous points and start learning proper web development with the M.E.R.N stack (<strong><i>MongoDB</i></strong>, <strong><i>Express.js</i></strong>, <strong><i>React.js</i></strong> and <strong><i>Node.js</i></strong>). 
 But it only made me want to learn more and more! Today i work as a developer with languages and frameworks like <strong><i>Typescript</i></strong> and <strong><i>Angular</i></strong> using CSS extensions like <strong><i>Sass</i></strong> and style libraries like <strong><i>Bootstrap</i></strong>, <strong><i>Tailwind</i></strong>, etc. One proper tool that I love to implement in my projects is <strong><i>Docker</i></strong> and Docker Compose. It allows me to make my projects to make them scaleless and modular. 
 </details>
 
-
----
-
-## Programming Languages
-</br>
-
-<img align="left" alt="html_logo" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" alt="css_logo" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" alt="js_logo" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img align="left" alt="ty_logo" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img align="left" alt="mongo_logo" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-<img align="left" alt="node_logo" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="npm_logo" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-<img align="left" alt="express_logo" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-<img align="left" alt="react_logo" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img align="left" alt="angular_logo" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-<img align="left" alt="rxjs_logo" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" />
-<img align="left" alt="json_logo" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
-<img align="left" alt="docker_logo" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-<img align="left" alt="git_logo" width="60px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" alt="arch_logo" width="60px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />
-</br>
-</br>
