@@ -36,9 +36,8 @@ I'm an Telecommunications Electronics Engineering student. It means that when I'
 		height=200 
 		src="https://github-readme-streak-stats.herokuapp.com/?user=AlexGA93&theme=react&hide_border=true" alt="streak stats"/>
 	
-	<img width=390 height=200 src="https://github-readme-stats.vercel.app/api?username=AlexGA93&theme=react&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />
-	<br/>
-	<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGA93&theme=react&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
+<img width=390 height=200 src="https://github-readme-stats.vercel.app/api?username=AlexGA93&theme=react&show_icons=true&hide_border=true&count_private=true" alt="readme stats" />
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexGA93&theme=react&show_icons=true&hide_border=true&layout=compact" alt="top langs" />
 	
 </div>
 <br />
